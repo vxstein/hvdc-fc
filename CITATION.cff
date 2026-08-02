@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Si utiliza este software, por favor cítelo como se indica a continuación."
+title: "hvdc-fc: estimación probabilística de fallas de conmutación en enlaces HVDC-LCC"
+version: v1.0
+date-released: 2026-07-31
+authors:
+  - name: "VR"
+    affiliation: "Universidad de Chile, Facultad de Ciencias Físicas y Matemáticas"
+license: MIT
+repository-code: "https://github.com/vxstein/hvdc-fc"
+keywords:
+  - HVDC
+  - falla de conmutación
+  - hundimiento de tensión
+  - matriz de impedancias de barra
+  - sistemas de potencia

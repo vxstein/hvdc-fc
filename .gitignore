@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+figuras_sic/
+datos_tex/
+.DS_Store
+venv/
+.venv/
