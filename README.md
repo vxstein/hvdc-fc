@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21709850.svg)](https://doi.org/10.5281/zenodo.21709850)
 
-Estimación probabilística de fallas de conmutación en enlaces LCC-HVDC causadas por variaciones de tensión.
+Estimación probabilística de fallas de conmutación en enlaces HVDC-LCC causadas por variaciones de tensión.
 
 Implementación en Python 3 de la metodología desarrollada en la memoria de título del mismo nombre (Ingeniería Civil Eléctrica, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile).
 
