@@ -1,4 +1,4 @@
-# sic-hvdc-fc
+# hvdc-fc
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21709850.svg)](https://doi.org/10.5281/zenodo.21709850)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
